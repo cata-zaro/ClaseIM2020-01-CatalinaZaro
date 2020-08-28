@@ -1,0 +1,19 @@
+
+
+/* Archivo de cascadas de estilos */
+
+/*Importo tipofrafia Jost de Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@1,400;1,600;1,700&display=swap');
+
+body{
+
+  background-color: #ECD4FF;
+  font-size: 20px;
+  font-family: 'Jost', sans-serif;
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+
+}
+
+
