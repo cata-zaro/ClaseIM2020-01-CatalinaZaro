@@ -1,2 +1,2 @@
-# ClaseIE2020-01-CatalinaZaro
+# Imagen Escrita 2020 Catalina Zaro
 Primera clase de HTML, CSS, JS
