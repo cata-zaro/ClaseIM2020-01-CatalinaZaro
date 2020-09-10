@@ -7,13 +7,25 @@
 
 body{
 
-  background-color: #ECD4FF;
+  background-image: url(https://i.pinimg.com/originals/4f/8d/0b/4f8d0b65af25b1216a003d0e71e3e30f.jpg);
   font-size: 20px;
   font-family: 'Jost', sans-serif;
   width: 80%;
   max-width: 800px;
   margin: 0 auto;
-
 }
 
+footer{
+  background-color: rgb(179, 157, 207);
+  color: beige;
+  padding: 3em; /* EM square */
+  margin-top: 2em;
+}
+
+footer a{
+  color: white;
+  font-weight: bolder;
+  text-decoration: underline;
+  cursor: grabbing;
+}
 
